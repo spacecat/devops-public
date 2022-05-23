@@ -3,3 +3,4 @@ choco install git -y
 choco install notepadplusplus -y
 choco install googlechrome -y
 choco install vscode -y
+choco install visualstudio2022community
